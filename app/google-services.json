@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566633437823",
+    "firebase_url": "https://uecar-pi.firebaseio.com",
+    "project_id": "uecar-pi",
+    "storage_bucket": "uecar-pi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566633437823:android:4fb8ba6ac2206494",
+        "android_client_info": {
+          "package_name": "com.example.alberto.uecarpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566633437823-tv4ghof59cajbb0gsae8sdroqhchdaq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmEmMiAasz59aDB_D9wX3ME0P7yFTXgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

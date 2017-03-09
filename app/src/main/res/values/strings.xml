@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UeCar PI</string>
+    <string name="action_settings">Settings</string>
+    <string name="registrate">Regístrate</string>
+    <string name="cerrarSesion">Cerrar sesion</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="menuCSesion">Cerrar Sesion</string>
+    <string name="logIn">Log in</string>
+    <string name="signIn">Sign in</string>
+    <string name="email">Email</string>
+    <string name="contr">Contraseña</string>
+    <string name="Login">Entra</string>
+    <string name="action_salir">Salir</string>
+</resources>
